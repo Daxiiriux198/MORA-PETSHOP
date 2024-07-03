@@ -1,0 +1,145 @@
+@import url('https://fonts.googleapis.com/css2?family=Itim&display=swap');
+
+.navbar{
+    background-color:#263238 ;
+}
+
+.navbar-brand{
+    color: #FBF4DF;
+    width: 100px;
+    height: 100px;
+}
+
+
+
+.navbar-nav .nav-link {
+    color:  #FBF4DF;
+}
+
+
+body{
+    background-color: #FDA649;
+    font-family: "Itim", cursive;
+    font-size: 20px;
+
+}
+
+.img-kategori{
+    width: 200px;
+}
+
+.img-kategori:hover{
+    scale: (1.2);
+}
+
+.row-container{
+    background-color: #F5F0DD;
+    margin: 0px;
+}
+
+.card:hover{
+    border: 4px solid #FDA649;
+}
+
+.blue-bg{
+    background-color: #263238 ;
+}
+
+.blue-bg .nav-link{
+    color: #FBF4DF;
+}
+
+.col{
+    color: #F5F0DD;
+}
+
+
+.row-product{
+    background-color: #F5F0DD;
+    margin: 0px;
+    padding: 5px;
+    padding-top: 16px; 
+}
+.garis-produk{
+    border-bottom: 2px solid #263238;
+    margin-top: 10px;
+    margin-bottom: 25px;
+}
+
+.button {
+    padding: 5px 30px;
+  }
+
+  
+.login-container{
+    position: absolute;
+    width: 400px;
+    height: 450px;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    padding: 30px;
+}
+
+.logo {
+    max-width: 100%; /* Mengatur lebar maksimum gambar menjadi 20% dari wadah*/
+    height: auto; /*Menjaga rasio aspek gambar*/
+}
+
+.tittle {
+    background-color: #953638;
+    height: 90vh;
+}
+
+.fw-bold {
+    font-size: 70px;
+}
+
+.btn {
+    background-color: #263238;
+}
+
+.service-bg{
+    background-color:  #FBF4DF;
+    height: 70vh;
+}
+
+
+
+.footer{
+    background-color: #263238;
+}
+
+
+.testi-bg{
+    background-color: #FBF4DF;
+    height: 40vw;
+}
+
+.yellow-bg {
+    height: 30vw; 
+    border-radius: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+}
+
+.carousel {
+    width: 100%;
+}
+
+.carousel-inner {
+    width: 100%;
+}
+
+.carousel-item img {
+    max-width: 100%;
+    height: auto;
+    margin: 0 auto;
+    display: block;
+}
+
+.logoMora{
+    max-width: 50%;
+}
